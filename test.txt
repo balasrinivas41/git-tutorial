@@ -1,6 +1,3 @@
 hi this is bala. I am testing git in ubuntu.
-<<<<<<< HEAD
 I am testing git wow....
-=======
 This is not bala
->>>>>>> 6d9a3dda5c45a74a774ff376b99420ea6ca320aa
